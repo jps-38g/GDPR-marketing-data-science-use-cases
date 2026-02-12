@@ -1,0 +1,17 @@
+# Executive Summary
+
+Data science teams frequently encounter projects involving personal data from European Union (EU) citizens, yet practical guidance for evaluating GDPR compliance remains limited. 
+
+This paper provides a structured, scenario-driven approach to determining whether data science use cases can be conducted lawfully under the General Data Protection Regulation (GDPR).
+
+The paper begins with a high-level overview of GDPR, emphasizing its role as a principles-based framework rather than a prescriptive rulebook. 
+
+It then introduces the Legitimate Interest Assessment (LIA) test, a three-part evaluation recommended for determining whether personal data processing can be justified under the “legitimate interests” legal basis.
+
+To bridge the gap between regulation and practice, the paper applies the LIA framework to several marketing-oriented data science scenarios. 
+
+These examples illustrate how organizations can balance business objectives with data subject rights, assess risks, and decide on the best path forward.
+
+The paper also provides a high-level comparison of how similar use cases would be evaluated under U.S. privacy guidelines, highlighting key differences in regulatory philosophy and enforcement.
+
+Finally, the paper offers recommendations for improving the efficiency of the compliant implementation and conducting LIAs for the marketing use cases.
