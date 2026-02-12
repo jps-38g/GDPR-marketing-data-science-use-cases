@@ -8,7 +8,7 @@ This repository contains a paper exploring how data science teams can evaluate t
 
 ## Contents
 - **/paper/** – The full paper (PDF)
-- **/summaries/** – An executive summary
+- **/summary/** – An executive summary
 - **README.md** – Repository overview and context
 
 ## Paper Summary
