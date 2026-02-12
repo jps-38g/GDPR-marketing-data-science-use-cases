@@ -1,5 +1,5 @@
 # GDPR-marketing-data-science-use-cases
-Research paper illustrating an approach to determine if the use of personal data for specific data science projects (within the marketing domain) can be conducted in compliance with GDPR
+Paper illustrating an approach to determine if the use of personal data for specific data science projects (within the marketing domain) can be conducted in compliance with GDPR
 
 # An Evaluation of Data Science Use Cases and their Adherence to GDPR Guidelines
 
